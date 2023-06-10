@@ -52,6 +52,8 @@ public class HandleMultipleWindow {
 		//driver.manage().window().maximize();
 		//driver.findElement(By.linkText("Access all our Courses")).click();
 		
+		System.out.println("Selenium demo couse");
+		
 		
 	}
 
